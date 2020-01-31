@@ -1858,3 +1858,5 @@
   'visiting' or 'revisiting' in a couple of places.
     syntax.ss,
     7.ms, 8.ms
+- console I/O on Windows now supports Unicode characters in the BMP
+    expeditor.c, new-io.c, release_notes.stex
